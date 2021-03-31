@@ -1,0 +1,79 @@
+
+
+@media all and (max-width: 992px) {
+    .banner-content h3 {
+        padding-top: 80px;
+    }
+    .portfolio-right {
+        margin-left: 10px !important;
+    }
+    .portfolio-right h3 {
+        padding-top: 20px;
+        font-size: 15px;
+    }
+    .portfolio-right h1 {
+        margin: 10px 0 !important;
+    }
+    .slider-content {
+        margin: 60px 0;
+        padding: 10px;
+    }
+    .slider-section {
+        padding-top: 80px;
+    }
+    
+}
+
+@media all and (max-width: 768px) {
+    img {
+        width: 100%;
+    }
+    .banner-right{
+        margin-left: 20px;
+    }
+    .banner-content {
+        width: 88%;
+        margin-left: 23px;
+    }
+    .portfolio-left img {
+        height: auto;
+    }
+    .details-section {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+    .details-section h1 {
+        margin-top: 40px;
+    }
+    .pricing-table-content {
+        width: 70%;
+        margin: 15px auto;
+    }
+    .contact-right {
+        text-align: center;
+        margin-top: -50px;
+    }
+    .contact-right h2 {
+        margin-bottom: 5px !important;
+    }
+    .contact-right p {
+        margin-bottom: 0 !important;
+        margin-top: 5px !important;
+    }
+    
+
+}
+@media all and (max-width: 576px) {
+    .slider-content {
+        width: 70%;
+        margin: 60px auto;
+    }
+    .footer-section p {
+        font-size: 15px;
+    }
+}
+@media all and (max-width: 450px) {
+    .footer-section p {
+        font-size: 11px;
+    }
+}
